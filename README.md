@@ -32,6 +32,7 @@
 
 ## DATABBASE
 - [tengattack/gluasql](https://github.com/tengattack/gluasql) - a native Go implementation of SQL client for the GopherLua VM.
+- [Root-lee/gluaredis](https://github.com/Root-lee/gluaredis) - a redis client library for the GopherLua VM, based on go-redis.
 
 ## MATH
 - [PeerDB-io/gluabit32](https://github.com/PeerDB-io/gluabit32) - implements Lua 5.2 bit32 for gopher-lua.
