@@ -19,7 +19,7 @@
 - [Root-lee/gluawebsocket](https://github.com/Root-lee/gluawebsocket) - a websocket client library for the GopherLua VM, based on gorilla/websocket.
 - [agui888/glualor](https://github.com/agui888/glualor) - a web framework for GopherLua.
 
-## SYSTEM
+## OPERATING SYSTEM
 - [layeh/gopher-lfs](https://github.com/layeh/gopher-lfs) - gopher-lfs partially implements the luafilesystem module for gopher-lua.
 - [kohkimakimoto/gluafs](https://github.com/kohkimakimoto/gluafs) - filesystem utility for gopher-lua. 
 - [otm/gluash](https://github.com/otm/gluash) - glush is a interface to call any program as it were a function.
@@ -30,7 +30,7 @@
 - [ailncode/gluaxmlpath](https://github.com/ailncode/gluaxmlpath) - gluaxmlpath provides an easy way to use xmlpath from within GopherLua.
 - [go-gopher-xml/gopher-xml](https://github.com/go-gopher-xml/gopher-xml) - gopher-xml is a xml lib for gopher-lua
 
-## DATABBASE
+## DATABASE
 - [tengattack/gluasql](https://github.com/tengattack/gluasql) - a native Go implementation of SQL client for the GopherLua VM.
 - [Root-lee/gluaredis](https://github.com/Root-lee/gluaredis) - a redis client library for the GopherLua VM, based on go-redis.
 
